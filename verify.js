@@ -1,5 +1,5 @@
 (function() {
-  const licenseURL = "https://github.com/templateseoala/seo/edit/main/licenses.json";
+  const licenseURL = "https://raw.githubusercontent.com/templateseoala/seo/main/licenses.json";
   const currentHost = window.location.hostname;
 
   fetch(licenseURL)
