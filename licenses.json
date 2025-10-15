@@ -1,7 +1,4 @@
 {
-  "allowed": [
-    "customer1.blogspot.com",
-    "myclientsite.com"
-  ],
-  "message": "⚠️ Unlicensed Template. Please purchase a license from https://yourstore.payhip.com"
+  "allowed": ["demo.blogspot.com"], 
+  "message": "⚠️ Unlicensed Template. Please purchase a valid license at https://yourstore.payhip.com"
 }
