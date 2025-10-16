@@ -2,7 +2,7 @@
   "allowedDomains": [
     "clientdomain.com",
     "anotherclient.com",
-    "https://conservative-treehouse.blogspot.com"
+    "conservative-treehouse.blogspot.com"
   ],
   "meta": {
     "version": "1.0",
