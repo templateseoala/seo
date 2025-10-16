@@ -1,5 +1,5 @@
 <script>
-fetch("https://yourdomain.com/licenses.json")
+fetch("https://github.com/templateseoala/seo/blob/main/licenses.json")
   .then(r => r.json())
   .then(data => {
     const domain = location.hostname.replace("www.","");
