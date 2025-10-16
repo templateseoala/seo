@@ -7,4 +7,4 @@ fetch("https://github.com/templateseoala/seo/blob/main/licenses.json")
       document.body.innerHTML = "<h2>License Invalid ❌</h2>";
     }
   });
-</script>
+</script> 
