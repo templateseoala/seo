@@ -1,11 +1,6 @@
 {
   "allowedDomains": [
-    "clientdomain.com",
-    "anotherclient.com",
+    "seoala.blogspot.com",
     "conservative-treehouse.blogspot.com"
-  ],
-  "meta": {
-    "version": "1.0",
-    "updated": "2025-10-16"
-  }
+  ]
 }
