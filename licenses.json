@@ -1,4 +1,3 @@
 {
-  "allowed": ["demo.blogspot.com"], 
-  "message": "⚠️ Unlicensed Template. Please purchase a valid license at https://yourstore.payhip.com"
+  "allowedDomains": ["clientdomain.com", "yourdomain.com"]
 }
